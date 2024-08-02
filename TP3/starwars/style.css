@@ -1,0 +1,26 @@
+.li_imperio{
+    background-color: red;
+    
+}
+.li_rebeldes{
+    background-color: blue;
+}
+#vader{
+    font-size: 200%;
+}
+#luke{
+    font-style: italic;
+}
+.soldados{
+    border-style: dashed;
+    letter-spacing: 10px;
+}
+.apoyo{
+    text-align: center;
+}
+.naves{
+    text-transform:uppercase;
+}
+.droides{
+    text-align: center;
+}

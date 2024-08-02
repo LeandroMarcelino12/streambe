@@ -1,0 +1,26 @@
+body{
+    font-family: "Caveat", cursive;
+}
+
+#container{
+    width: 80%;
+    margin: auto 0;
+
+}
+
+.foto{
+    width: 30%;
+    margin: 1.4%;
+}
+
+h1{
+    margin-left: 1.4%;
+    font-size: 40px;
+    text-transform: uppercase;
+    border-bottom: 2px solid red;
+    width: 13%;
+    padding-bottom: 0.8%;
+}
+footer{
+    text-align: center;
+}
