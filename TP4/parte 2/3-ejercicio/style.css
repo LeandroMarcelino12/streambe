@@ -1,0 +1,22 @@
+#container{
+    margin: 0 auto;
+    width: 80%;
+}
+#navbar{
+    background-color: #118AB2;
+}
+#contenido{
+    background-color: #06D6A0;
+    width: 70%;
+}
+#sidebar{
+    width: 30%;
+    background-color :#EF476F;
+}
+/* float */
+#contenido{
+    float: left;
+}
+#sidebar{
+    float: left;
+}

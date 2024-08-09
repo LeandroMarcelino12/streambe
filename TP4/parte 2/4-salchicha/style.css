@@ -1,0 +1,13 @@
+.pan{
+    background-color: #edb45e ;
+}
+#salchicha{
+    background-color: #cb3234;
+}
+div {
+    width: 400px;
+    height: 75px;
+    background-color: white;
+    border-radius: 100px;
+    margin: 0 auto;
+}
