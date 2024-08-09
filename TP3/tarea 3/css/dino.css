@@ -1,0 +1,37 @@
+#guia{
+    text-align: center;
+    color: brown;
+}
+#guia ul{
+    list-style-type: none;
+}
+.carnivoros {
+    background-color:	#9C0001;
+}
+.carnivoros img{
+    width: 25%;
+    height: auto;
+
+}
+.herbivoros{
+    background-color: #90ee90;
+}
+.herbivoros img{
+    width: 25%;
+    height: auto;
+}
+.voladores{
+    text-shadow: 2px 2px 4px black;
+}
+.voladores img{
+    width: 25%;
+    height: auto;
+}
+.acuaticos img{
+    width: 25%;
+    height: auto;
+}
+.acuaticos{
+    font-family: cursive;
+    color: blue;
+}

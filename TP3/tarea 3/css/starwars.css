@@ -1,0 +1,38 @@
+body{
+    color: white;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvhUelMIUjcDvPUvRCC2diQn_um19Z9LsRhyipbS9Ujw&s);
+}
+header{
+    text-align: center;
+}
+.losMalos {
+    background-color: red;
+}
+
+.losBuenos {
+    background-color: blue;
+}
+
+#darth_vader {
+    font-size: xx-large;
+}
+
+#Luke {
+    font-style: italic;
+}
+
+.apoyo {
+    text-align: center;
+}
+
+.soldados {
+    border: 2px dashed black;
+    letter-spacing: 2px;
+}
+
+.nave {
+    text-transform: uppercase;
+}
+.droides{
+    text-align: center;
+}
