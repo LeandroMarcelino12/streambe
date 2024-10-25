@@ -1,7 +1,5 @@
 # Trabajos Streambe Generación T
-___
 Bienvenidos a mi repositorio de GitHub. En este repositorio subiré los trabajos realizados por Leandro Manuel Marcelino Valdez para el proyecto Generación T de la empresa Streambe.
-
 ## Trabajos Prácticos
 
 ### Trabajo Práctico 1
