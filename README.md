@@ -8,7 +8,7 @@ hola bienvenidos a mi repositorio de github en este repositorio voy a subir los 
 6. Trabajo practico 6: En el TP 6 se utiliza HTML pero centrandose mas en el CSS, usando textos pero mas que nada imagenes, modificando sus tamaños para poder ordenarlos en un cuadro de imagenes correctamente ordenados.
 7. Trabajo practico 7: En el Tp 7 se utiliza HTML y CSS para crear un portfolio del usuario con diferentes secciones de texto y fotos.
 8. Trabajo practico 8: En el TP 8 se utiliza HTML y Principalmente JavaScript.
-9. Trabajo practico 9:
+9. Trabajo practico 9: En el tp 9 se utiliza HTML y Principalmente JavaScript.
 10. Trabajo practico 10: En el Tp 10 se utiliza un HTML pero principalmente nos enfocamos en usar javascript resolviendo diferentes consignas que se nos han dado.
 11. Trabajo practico 11: En el tp 11 se Se utilizan HTML, CSS y JavaScript para crear diferentes paaginas donde se encuentran los codigos usados para responder a diferentes consignas asignadas. 
 12. Trabajo practico 12: En el Tp 12 se utilizan HTML, CSS y JavaScript para crear una pagina con un minijuego de velocidad de escritura. 
